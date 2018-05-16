@@ -1,2 +1,2 @@
 # Docs
-Documention fo various setup tasks for Ruffian Tech.
+Documention for various setup tasks for Ruffian Tech.
