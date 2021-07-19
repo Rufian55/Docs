@@ -1,2 +1,2 @@
 # Docs
-Documention for various setup tasks for Ruffian Tech.
+Documention for various Developer tasks for RigidBody Tech LLC.
